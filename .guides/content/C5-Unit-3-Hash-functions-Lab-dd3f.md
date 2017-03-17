@@ -1,11 +1,16 @@
 {Check It!|assessment}(multiple-choice-1933262061)
 
 |||guidance
-# Answer: False. There is no way to “decrypt” the message to the original from the hash value.
+# Answer: 
+**False**
 |||
 {Check It!|assessment}(multiple-choice-438448731)
 |||guidance
-# Answer: a, b, and d
+# Answer:
+**Checking whether a file was corrupted during download**
+**Storing passwords**
+**Storing passwords**
+
 |||
 
 Pending questions

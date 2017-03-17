@@ -4,8 +4,8 @@
   "taskId": "multiple-choice-1933262061",
   "source": {
    "name": "Learning Objective 3.1",
-   "showName": true,
-   "instructions": "True or False: Hash functions can be used for confidentiality.",
+   "showName": false,
+   "instructions": "**True or False: Hash functions can be used for confidentiality**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -28,8 +28,8 @@
   "taskId": "multiple-choice-438448731",
   "source": {
    "name": "Learning Objective 3.1 Question 2",
-   "showName": true,
-   "instructions": "\nHash functions can be used for which of the following (more than one may apply):\n",
+   "showName": false,
+   "instructions": "**Hash functions can be used for which of the following (more than one may apply):**\n",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
@@ -37,22 +37,22 @@
     {
      "_id": "1b7569c8-a71b-168c-f72e-683b4647254f",
      "correct": true,
-     "answer": "a.\tChecking whether a file was corrupted during download"
+     "answer": "Checking whether a file was corrupted during download"
     },
     {
      "_id": "2926aa94-998d-46c0-f539-c791727d0494",
      "correct": true,
-     "answer": "b.\tStoring passwords"
+     "answer": "Storing passwords"
     },
     {
      "_id": "b603b3b3-68ec-a42d-1359-ca45330d9132",
      "correct": false,
-     "answer": "c.\tHiding the content of messages so that they can be recovered only when needed"
+     "answer": "Hiding the content of messages so that they can be recovered only when needed"
     },
     {
      "_id": "fc9b1448-555c-4a13-f1f1-b0c9344731fa",
      "correct": true,
-     "answer": "d.\tDigital signatures"
+     "answer": "Digital signatures"
     }
    ]
   }

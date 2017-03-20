@@ -1,12 +1,45 @@
 {
  "sections": [
   {
-   "id": "dd3f0424-3e08-f580-883d-12b5b424cd0e",
-   "title": "C5 Unit 3 Hash functions Lab",
+   "id": "ac0885d5-bb8a-bf6a-e7ab-244d8635f961",
+   "title": "Grading Rubric Hash Functions ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/C5-Unit-3-Hash-functions-Lab-dd3f.md",
+   "content-file": ".guides/content/Grading-Rubric-Hash-Functions--ac08.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9538ffc5-daf6-9a3f-a839-dd7606cf5199",
+   "title": "Verifying Integrity of a Download",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Verifying-Integrity-of-a-Download-9538.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cb4ef007-ca1b-2165-bb22-d9f9e6d89a4a",
+   "title": "What to Submit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-to-Submit-cb4e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dd3f0424-3e08-f580-883d-12b5b424cd0e",
+   "title": "Hash functions End of Unit Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hash-functions-End-of-Unit-Quiz-dd3f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

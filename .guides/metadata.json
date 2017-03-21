@@ -32,17 +32,6 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
-  },
-  {
-   "id": "dd3f0424-3e08-f580-883d-12b5b424cd0e",
-   "title": "Hash functions End of Unit Quiz",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Hash-functions-End-of-Unit-Quiz-dd3f.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
   }
  ],
  "theme": "light",

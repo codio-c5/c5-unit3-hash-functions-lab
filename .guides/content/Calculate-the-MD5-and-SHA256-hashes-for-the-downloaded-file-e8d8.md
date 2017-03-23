@@ -7,8 +7,8 @@ In the pane on the left:
 	
 
 ### Enter the hash values below:
-**MD5** hash value:  **Pending free text assessment question**
-**SHA256** hash value: **Pending free text assessment question**
+{Submit Answer!|assessment}(free-text-3456745557)
+{Submit Answer!|assessment}(free-text-1254143326)
 
 **[Click here](open_preview https://www.openoffice.org/download/index.html panel=0)** to view the website
 
@@ -17,14 +17,13 @@ In the pane on the left:
 **[Click here](https://archive.apache.org/dist/openoffice/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe.md5)** to download the **MD5** for the Language Pack and save it on your computer.
 - Open it with Notepad.
 ### Enter the hash value below:
-**MD5** hash value: **Pending free text assessment question**
+{Submit Answer!|assessment}(free-text-1804407759)
 
 Do the same for the **SHA256** hash value:
 **[Click here](https://archive.apache.org/dist/openoffice/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe.sha256)** to download the **SHA256** for the Language pack and save it on your computer
 - Open it with Notepad.
 ### Enter the hash value below:	
-**SHA256** hash value: **Pending free text assessment question**
-
+{Submit Answer!|assessment}(free-text-3160498237)
 
 Compare these hash values with the ones that you calculated when you downloaded the file.
 

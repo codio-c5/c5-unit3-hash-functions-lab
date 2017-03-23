@@ -4,17 +4,19 @@
    "id": "ac0885d5-bb8a-bf6a-e7ab-244d8635f961",
    "title": "Grading Rubric Hash Functions ",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Grading-Rubric-Hash-Functions--ac08.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": true
   },
   {
    "id": "9538ffc5-daf6-9a3f-a839-dd7606cf5199",
    "title": "Verifying Integrity of a Download",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Verifying-Integrity-of-a-Download-9538.md",
@@ -23,9 +25,33 @@
    "teacherOnly": false
   },
   {
+   "id": "e8d80f1d-6acc-7355-106e-481d375e38a0",
+   "title": "Calculate the MD5 and SHA256 hashes for the downloaded file",
+   "files": [
+    {
+     "path": "#preview: https://md5file.com/calculator",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Calculate-the-MD5-and-SHA256-hashes-for-the-downloaded-file-e8d8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "cb4ef007-ca1b-2165-bb22-d9f9e6d89a4a",
    "title": "What to Submit",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-to-Submit-cb4e.md",

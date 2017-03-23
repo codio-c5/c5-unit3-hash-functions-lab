@@ -1,4 +1,3 @@
-### Copy and paste the three screenshots of the hash values in a Word file. Label them “MD5 calculated,” “MD5 from the site,” etc.
 
 **Pending Questions for new assessment type**
 

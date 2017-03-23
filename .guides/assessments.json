@@ -56,5 +56,29 @@
     }
    ]
   }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2005164169",
+  "source": {
+   "name": "Question",
+   "showName": false,
+   "instructions": "**Are they the same?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "24c7a7b7-b634-2b54-04a7-9f4a36bb494d",
+     "correct": true,
+     "answer": "Yes"
+    },
+    {
+     "_id": "d7537347-6eed-a8c8-cd07-79ce1c89f12f",
+     "correct": false,
+     "answer": "No"
+    }
+   ]
+  }
  }
 ]

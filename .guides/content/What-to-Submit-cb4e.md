@@ -15,7 +15,7 @@
 
 |||guidance
 # Solution
-** The file could still be malicious although it is highly unlikely. Even though it is very very difficult to find, collisions exist for hash functions.**
+**The file could still be malicious although it is highly unlikely. Even though it is very very difficult to find, collisions exist for hash functions.**
 |||
 {Submit Answer!|assessment}(free-text-3264046321)
 
